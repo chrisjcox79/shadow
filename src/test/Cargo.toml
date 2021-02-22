@@ -71,4 +71,4 @@ path = "memory/test_mmap.rs"
 
 [dependencies]
 libc = "0.2"
-nix = "0.19.0"
+nix = "0.20.0"
